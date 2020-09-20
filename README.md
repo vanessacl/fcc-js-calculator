@@ -8,6 +8,6 @@
   Visit this link to check this website: https://fcc-calculator-js.netlify.app
   
   
-  <img src="img/Screenshot.png" width= "450">
+  <img src="img/Screenshot.png" width= "450" target="blank">
   
   
