@@ -5,7 +5,7 @@
   - CSS
   - JavaScript
   
-  Visit this link to check this website: https://fcc-calculator-js.netlify.app
+  Live: [go](https://fcc-calculator-js.netlify.app){:target="_blank" rel="noopener"}
   
   
   <img src="img/Screenshot.png" width= "450" target="blank">
